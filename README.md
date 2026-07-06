@@ -30,7 +30,8 @@ You can start the system in either Development or Production mode.
 Option A: Running in Development Mode
 Best for making changes, exploring the code, or testing locally:
 
-* npm run dev
+* npm run dev.
+
 This spins up the Vite development server along with the backend API.
 Open your browser and navigate to: http://localhost:3000.
 
