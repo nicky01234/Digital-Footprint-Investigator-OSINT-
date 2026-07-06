@@ -1,0 +1,6 @@
+{
+  "name": "Digital Footprint Investigator",
+  "description": "An ethical OSINT platform to collect, organize, visualize, and analyze publicly available information from lawful sources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
