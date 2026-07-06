@@ -26,6 +26,7 @@ Run the installation command to fetch all required libraries (Express, Vite, Rea
 💻 Running the Application :
 
 You can start the system in either Development or Production mode.
+
 Option A: Running in Development Mode
 Best for making changes, exploring the code, or testing locally:
 
